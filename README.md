@@ -12,11 +12,3 @@
 ***
 #### project url: **'https://codeinstitute-davidhubber.github.io/from-javascript-to-jquery-manipulating-the-dom/'**
 ***
-
-## The Jasmine Framework
-
-- Test-Driven Development Using Jasmine
-    - [Creating The Boilerplate][]
-
-    
-[Creating The Boilerplate]: https://youtu.be/hmRgPzOfwZw
